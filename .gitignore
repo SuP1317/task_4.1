@@ -1,0 +1,10 @@
+*class
+**/logs
+**/logs/debug.log
+.log
+*.log
+!important.log
+/debug.log
+debug.log
+debug?.log
+debug[0-9].log
