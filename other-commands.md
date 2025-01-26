@@ -1,4 +1,4 @@
-#### [<на основную страницу](./readme.md)
+#### [< Основные команды:](./readme.md/#2-основные-команды "На главную страницу")     
 
 ## Другие команды GIT
 
@@ -49,4 +49,6 @@
 
 
 ---
+<span style="font-size:12px;">
 Scheme image2 (https://avatars.mds.yandex.net/i?id=5064dcecd948e52edecbf41e30fc96bf8f7bb05d-13061786-images-thumbs&n=13)
+</span>

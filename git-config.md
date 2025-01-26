@@ -1,10 +1,14 @@
-### [Основные команды:](./readme.md)    <u> *git config* </u>
+### [< Основные команды:](./readme.md/#2-основные-команды "На главную страницу")     
+##   <u> *git config* </u>
 
-На этом этапе происходит настройка пользователя.
+Первый шаг при работе с git. На этом этапе происходит настройка пользователя.
 Необходимо задать имя пользователя и почту. 
 Именно они будут отображаться при определении автора изменений. 
 
+<p style="text-align:center">git config --global user.name ”Ivan Ivanov”</p>  
+<p style="text-align:center">git config --global user.email "ivan.ivanov@gmail.com"</p>
 
-git config --global user.name ”Ivan Ivanov” 
-git config --global user.email ivan.ivanov@gmail.com
+
+
+Если пропустить данный этап, то при попытке закоммитить изменения, система попросит указать автора. 
 
